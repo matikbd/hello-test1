@@ -6,5 +6,6 @@ package com.test;
 public class HelloMain {
     public static void main(String args[]){
         System.out.println("c1");
+        System.out.println("c2");
     }
 }
